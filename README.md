@@ -5,5 +5,5 @@ Repoda belli başlı kilit kodların açıklaması ingilizce bir şekilde yapıt
 Benimle birlikte 0'dan çalışmak için bu reponun günlük güncellemelerini takip edip kodların ne işe yaradıklarını dökümantasyonlardan takip edebilirsiniz eğer dökümantasyon okumak size sıkıcı geliyor ise youtube yada herhangi bir kaynaktan beraber ilerleyebiliriz.Herhangi bir sorunuz olursa bana aşağıdaki alanlardan ulaşabilirsiniz. Kolay Gelsin.
 
 
-[Twitter]: @maliekci
+[Twitter](https://twitter.com/maliekci)
 [linkedin](https://www.linkedin.com/in/mehmet-ali-ekici-6326ba207)
